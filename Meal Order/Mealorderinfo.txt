@@ -1,0 +1,4 @@
+About the system
+This is a food order system in java. Here you can order food from different categories. 
+You can simultaneously select the number of items you want to buy. You can also calculate the total bill. 
+Also, in this project, you can view the order table. Also user info's inside the program.
