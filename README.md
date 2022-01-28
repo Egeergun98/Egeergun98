@@ -1,2 +1,2 @@
 # Egeergun98
-Studentin ekonomi  üniversitesi 
+Student in Izmir Ekonomi University
