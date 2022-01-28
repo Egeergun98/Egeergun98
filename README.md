@@ -1,2 +1,2 @@
 # Egeergun98
-Student in Izmir Ekonomi University
+Student in Izmir Ekonomi University.Yazılım Mimarisi, Yazılım Sınama ve Doğrulama, Yazılım Belirtim ve Tasarım, Veri Yapıları ve Algoritmalar, Bilgisayar Bilimleri için Ayrık Matematik ve Programlama gibi bilgisayar bilimlerinin ve yazılım teknolojilerinin temellerini oluşturan dersleri tamamladım. E-ticaret sistemleri mimarisi geliştirme ve yönetiminin yanı sıra internet protokolleri ve kredi kartı ödemesi yapılandırma normu ve smtp posta onay hizmetlerinde ile ilgili çalışmalarım oldu.
